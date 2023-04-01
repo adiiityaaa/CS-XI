@@ -1,10 +1,10 @@
 #include <iostream>
+#include <conio.h>
 using namespace std;
 
 int main() {
- int size;
- cout<<"Enter the size of the array [Max 30]:\n";
- cin>>size;
+ system("CLS");
+ int size = 10;
  if(size>30) { cout<<"Size greater than 30!"; exit(0); }
  int arr[size];
  cout<<"Enter "<<size<<" elements for the array:\n";
@@ -22,4 +22,5 @@ int main() {
  for(int i=0; i<size; i++) {
     cout<<arr[i]<<"\n";
  }
+ getch();
 }

@@ -4,15 +4,13 @@
 using namespace std;
 int main()
 { 
- float num;
+ int num = 10;   
  float square = 0, x=0;
  system("CLS");  
- cout<<"Enter the Number:\n";   
- cin>>num;
  while(x!=(num+1)) {
  square=square+(x*x);
  x++;
  }
- cout<<"Sum of squares of first"<<num<<"is: "<<square;
+ cout<<"Sum of squares of first 10 numbers is: "<<square;
  getch();
 }    

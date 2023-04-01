@@ -17,10 +17,8 @@ bool isPrime(int x) {
 }
 
 int main() {
-int size;
+int size = 10;
 system("CLS");
- cout<<"Enter the array size:\n";
- cin>>size;
  int arr[size];
  cout<<"Enter elements for array:\n";
  for(int i=0; i<size; i++) {
