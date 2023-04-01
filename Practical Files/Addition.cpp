@@ -14,4 +14,5 @@ int main() {
  cin>>a>>b;
  sum=add(a,b);
  cout<<"Sum of numbers is "<<sum;
+ getch();
  }
