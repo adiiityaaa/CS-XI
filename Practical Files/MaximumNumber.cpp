@@ -17,3 +17,7 @@ system("CLS");
  cout<<"Maximum element of the Array is "<<max;
  getch();
 }
+//output: 
+//Enter elements for array:
+//1 555 494 303 214 60 292 391 600 302
+//Maximum element of the Array is 600

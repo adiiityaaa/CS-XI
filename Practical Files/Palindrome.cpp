@@ -18,3 +18,7 @@ int main()
  if(num == reverse) { cout<<"It is a Palindrome Number."; } else { cout<<"It is not a Palindrome Number."; }
  getch();
 }
+//output:
+//Enter the number:
+//999
+//It is a Palindrome Number.

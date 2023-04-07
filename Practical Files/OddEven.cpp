@@ -13,3 +13,7 @@ int main()
  if(calc == 0) { cout<<"Number is Even."; } else { cout<<"Number is Odd."; }
  getch();
 }    
+//output:
+//Enter the Number:
+//49
+//Number is Odd.

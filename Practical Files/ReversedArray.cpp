@@ -24,3 +24,8 @@ int main() {
  }
  getch();
 }
+//output:
+//Enter 10 elements for the array:
+//4 5 6 02 40 484854 8383893 585824 2389 203
+//The reversed array is:
+//203 2389 585824 8383893 484854 40 2 6 5 4

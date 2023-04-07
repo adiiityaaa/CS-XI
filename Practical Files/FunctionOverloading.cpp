@@ -25,3 +25,11 @@ int main() {
   cout<<"Area of rectangle is: "<<rectangle;
   getch();
 }
+//output: 
+//Enter the side of Square:
+//4
+//Enter the Length and Breadth of Rectangle:
+//4
+//5
+//Area of Square is: 16   
+//Area of rectangle is: 20

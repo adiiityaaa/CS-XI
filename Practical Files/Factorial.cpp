@@ -20,3 +20,7 @@ int main()
  cout<<"Factorial of "<<x<<" is "<<fact;
  getch();
 }   
+//output:
+//Enter the Number:
+//10
+//Factorial of 10 is 3628800

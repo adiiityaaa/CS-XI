@@ -32,3 +32,8 @@ system("CLS");
  }
  getch();
 }
+//output:
+//Enter elements for array:
+//39 29 39 58 3 40 28 384 29 394
+//Prime numbers in the array are:
+//29 3 29

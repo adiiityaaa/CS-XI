@@ -14,3 +14,5 @@ int main()
  cout<<"Sum of squares of first 10 numbers is: "<<square;
  getch();
 }    
+//output:
+//Sum of squares of first 10 numbers is: 385

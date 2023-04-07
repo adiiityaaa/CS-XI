@@ -16,3 +16,7 @@ int main()
  }
 getch(); 
 }
+//output:
+//Enter the three numbers:
+//40 50 60
+//60 is the greatest number. 

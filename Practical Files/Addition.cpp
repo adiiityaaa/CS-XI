@@ -16,3 +16,8 @@ int main() {
  cout<<"Sum of numbers is "<<sum;
  getch();
  }
+//output:
+//Enter two numbers:
+//12
+//13
+//Sum of numbers is 25

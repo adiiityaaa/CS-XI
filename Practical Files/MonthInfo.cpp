@@ -46,3 +46,8 @@ int main()
   }  
   getch();
 }    
+//output:
+//Enter the Month Number:
+//3
+//Name: March
+//Days: 31   

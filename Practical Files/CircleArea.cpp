@@ -17,3 +17,6 @@ int main() {
  cout<<"Area of circle is "<<final;
 getch();  
 }
+//output:
+//Enter the Radius:5
+//Area of circle is 78.5
