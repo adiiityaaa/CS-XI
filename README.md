@@ -1,5 +1,5 @@
 # CS-XI
-A repository containing C++ codes for Computer Science of Class 11. It covers codes from basic HelloWorld to Arrays.
+A repository containing C++ codes for Computer Science of Class 11. It covers codes from basic HelloWorld to Arrays. It is continued in [CS-XII](https://github.com/adiiityaaa/CS-XII).
 
 # Languages Used
 This repository is based on C++ only and is a basic level repository.
